@@ -1,0 +1,13 @@
+*{
+	font-family: monospace;
+
+}
+
+body{
+	text-align: center;
+}
+
+input{
+	padding: 10;
+	margin: 5;
+}
